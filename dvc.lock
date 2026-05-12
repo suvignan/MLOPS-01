@@ -1,0 +1,9 @@
+schema: '2.0'
+stages:
+  Enter:
+    cmd: python Src\data_ingestion.py
+    deps:
+    - path: Src\data_ingestion.py
+      hash: md5
+      md5: 3d463e5efa96e9f38596c0b7c8ffd50a
+      size: 3790

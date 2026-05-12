@@ -10,3 +10,7 @@
 2026-05-12 15:10:48,432 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/suvignan/Datasets/refs/heads/main/spam.csv
 2026-05-12 15:10:48,437 - data_ingestion - DEBUG - Data preprocessing completed
 2026-05-12 15:10:48,470 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-05-12 21:20:13,502 - data_ingestion - DEBUG - Parameters retrieved from C:\Users\srisu\OneDrive\Desktop\MachineLearning\MLops\DVC Project\params.yaml
+2026-05-12 21:20:14,849 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/suvignan/Datasets/refs/heads/main/spam.csv
+2026-05-12 21:20:14,863 - data_ingestion - DEBUG - Data preprocessing completed
+2026-05-12 21:20:14,951 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
